@@ -1,4 +1,4 @@
-# Tiramisu Cost Model
+# LOOPer's Cost Model
 A deep learning model to predict the speedup obtained from applying a sequence of transformations on an input program.
 
 ## Installation  
